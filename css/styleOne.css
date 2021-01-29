@@ -1,0 +1,42 @@
+.text-hover:hover {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 5px;
+}
+
+.carousel-img {
+  height: 650px;
+}
+.logo-img img {
+  height: 300px;
+}
+.articel-img img {
+  height: 300px;
+  width: 500px;
+}
+.details-font-sizeing h2 {
+  font-size: 18px;
+}
+.details-font-sizeing p {
+  font-size: 15px;
+  text-align: justify;
+}
+.side-section h3 {
+  font-size: 20px;
+  text-align: center;
+}
+.recommended-links a {
+  text-decoration: none;
+  color: black;
+}
+.support-link {
+  text-decoration: none;
+  color: rgb(131, 91, 218);
+}
+.support-link img {
+  margin-right: 10px;
+}
+footer {
+  margin-top: 250px;
+  text-align: center;
+}
